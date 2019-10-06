@@ -1,4 +1,4 @@
-# Welcome to Book a Book, a :romania: ONG 
+# Welcome to Book a Book, a romanian ONG 
 Why buy a new book if you want to read it only once? Book a book is an online library for readers worldwide. It works based on a special membership. Moreover, you are given the possibility to exchange an old book for a new one! It is either a membership or an old book.
 
 ## The problem
@@ -7,7 +7,7 @@ Romanian editors are consistently complaining about the fact that the book marke
 
 One of the reasons may be the things that people enjoy buying better than books. Time is another similar reason, as it is never enough, especially when buying books or reading are not on the top of the priorities list. 
 
-## Book a book is a solution :books:
+## Book a book is a solution 
 Our idea represents a solution to these problems: an online library that enables any user to place him/herself only at a click away from a book ready to be read. The cost related issue may be solved by simply donating books for a monthly membership. As long as the membership is active, the user can borrow any book, and this will help our library grow. 
 
 Another option for those who can not be apart from their books is to pay for the membership. For starters, we will promote the first option as much as possible because it serves our purpose: to grow the number and diversity of our books.
@@ -38,7 +38,7 @@ It has also a service for private people. They can rent a book and take it from 
 ## Why us ? Our advantage over the competition
 In comparison with all these companies, Book a Book offers you the possibility to rent a book by having a monthly membership or by giving a book of your own and we will also bring the book to your door because we understand how important your time is.
 
-## Key metrics :old_key:
+## Key metrics 
 - Daily, weekly, or monthly active users on app or website (DAU/WAU/MAU)
  - Average time spent on your website
  - Returning visitors to app or website
@@ -48,14 +48,43 @@ In comparison with all these companies, Book a Book offers you the possibility t
  - Number of logins
  - Monthly recurring revenue
 
-## Cost structure :dollar:
+## Cost structure
 Our startup has both variable and fixed costs.
 
 In the fixed costs category we can find the salaries for our employees, the bank and legal charges, the software, the server and the domain name acquisition.
 
 In the variable costs category we can identify the advertising and promotions, the delivery services of the books and the books replacement in case of destroying.
 
-## Revenue streams :moneybag:
-In this company the revenue will come from 2 income streams:
+## Revenue streams 
+In this company the revenue will come from 3 income streams:
 - Monthly paid membership(which is the main income stream that we’ll have)
+- Donations and 2% redirects from taxes
 - Ads for the people which don’t have paid membership and are renting books by giving one in return(most ads we’ll be related with books and maybe some of them will be partnerships with some audio books websites).     
+
+## Our team
+- Andrei Furtuna [andreifurtuna2@gmail.com]
+
+    Andrei is the product manager of our project - one of his main responsibilities is monitoring the performance and progress of the project.
+    He is the kind of person who is always present for everyone, ready to help and lead the ones in need.
+
+- Teodor Constantin [teo.cons98@gmail.com]
+
+    Teodor is the product owner of Book a book - in this startup, is role is to ensure the management of the project.
+    Teodor is a visionary, trustworthy person who is convinced that Book a book can be a success. 
+
+- Sabina Horincar [sabina.horincar@gmail.com]
+
+    Sabina is our frontend developer who is responsable with the design, graphics and visual elements for Book a book. 
+    Flexibility, adaptability, artistic vision and always showing up with a smile. These are the words that describe our colleague the best.
+
+- Larisa Stanciu [larisa.ioana@yahoo.com]
+
+    Larisa is the backend developer of the project in charge with the server side logic. 
+    She is a patient person with a passion for code who manage to schedule all her tasks in a most efficient way possible.
+
+- Cristian Prepelita [cristian.prepelita14@gmail.com]
+
+    Cristian is the tester of our team in charge with the performance and tests of the project.
+    Perseverance, the ability to organize and prioritize tasks. This is the best way to describe Cristian in a few words.
+
+
