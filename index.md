@@ -21,30 +21,19 @@ Book a Book is a project targeting people who have a passion for reading. The cl
 
 ## Our competition
 The 3 big competitors for Book a Book are:
-- [Booklender](https://www.booklender.com) 
-- [Amazon](https://www.amazon.com/)
-- [Bookster](https://www.bookster.ro)
-
-All of them offer some benefits:
-
-Booklender offers you renting a number of books for a membership paid monthly(the more expensive the membership the more number of books you can have at one time)
-
-Amazon offers you renting a book for a fixed price dependent on the book you want to read.
-
-Bookster is focused for the corporations, helping their employees to rent a book and have it at the company headquarters once a week.
-
-It has also a service for private people. They can rent a book and take it from Bookster headquarters in their city.
+- [Booklender](https://www.booklender.com) who offers the possibility of renting a number of books for a membership paid monthly (the more expensive the membership the more number of books you can have at one time).
+- [Amazon](https://www.amazon.com/) who offers the possibility of renting a book for a fixed price dependent on the desired book.
+- [Bookster](https://www.bookster.ro) who is focused for the corporations, helping their employees to rent a book and have it at the company headquarters once a week.
 
 ## Why us ? Our advantage over the competition
 In comparison with all these companies, Book a Book offers you the possibility to rent a book by having a monthly membership or by giving a book of your own and we will also bring the book to your door because we understand how important your time is.
 
 ## Key metrics 
-- Daily, weekly, or monthly active users on app or website (DAU/WAU/MAU)
+- Daily, weekly, or monthly active users on application or website (DAU/WAU/MAU)
  - Average time spent on your website
- - Returning visitors to app or website
+ - Returning visitors to application or website
  - User satisfaction
  - Average revenue per account
- - Platform risk ?!
  - Number of logins
  - Monthly recurring revenue
 
@@ -61,7 +50,7 @@ In this company the revenue will come from 3 income streams:
 - Donations and 2% redirects from taxes
 - Ads for the people which don’t have paid membership and are renting books by giving one in return(most ads we’ll be related with books and maybe some of them will be partnerships with some audio books websites).     
 
-## Our team
+## Meet our team
 - Andrei Furtuna [andreifurtuna2@gmail.com]
 
     Andrei is the product manager of our project - one of his main responsibilities is monitoring the performance and progress of the project.
