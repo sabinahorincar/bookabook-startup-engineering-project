@@ -1,4 +1,4 @@
-# Welcome to Book a Book, a romanian ONG 
+# Welcome to Book a Book
 
 ## The problem
 
@@ -7,7 +7,9 @@ Romanian editors are consistently complaining about the fact that the book marke
 One of the reasons may be the things that people enjoy buying better than books. Time is another similar reason, as it is never enough, especially when buying books or reading are not on the top of the priorities list. 
 
 ## Book a Book is a solution 
-Our idea represents a solution to these problems: an online library that enables any user to place him/herself only at a click away from a book ready to be read. The cost related issue may be solved by simply donating books for a monthly membership. As long as the membership is active, the user can borrow any book, and this will help our library grow. 
+Our idea represents a solution to these problems: an online library that enables any user to place him/herself only at a click away from a book ready to be read. 
+
+The cost related issue may be solved by simply donating books for a monthly membership. As long as the membership is active, the user can borrow any book, and this will help our library grow. 
 
 Another option for those who can not be apart from their books is to pay for the membership. For starters, we will promote the first option as much as possible because it serves our purpose: to grow the number and diversity of our books.
 
@@ -46,7 +48,6 @@ In the variable costs category we can identify the advertising and promotions, t
 ## Revenue streams 
 In this company the revenue will come from 3 income streams:
 - Monthly paid membership (which is the main income stream that we’ll have)
-- Donations and 2% redirects from taxes
 - Ads for the people which don’t have paid membership and are renting books by giving one in return(most ads we’ll be related with books and maybe some of them will be partnerships with some audio books websites).     
 
 ## Meet our team
